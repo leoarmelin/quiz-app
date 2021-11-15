@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">quiz-app</string>
+    <string name="login_title">Quiz App</string>
+    <string name="login_welcome">Welcome</string>
+    <string name="login_askName">Please enter your name.</string>
+    <string name="login_inputHint">Type here</string>
+    <string name="login_buttonLabel">START</string>
+    <string name="trophy_result">Result</string>
+    <string name="trophy_congrats">Hey, Congratulations!</string>
+    <string name="country_flag_description">Quiz Image</string>
+    <string name="quiz_submit_btn">SUBMIT</string>
+    <string name="trophy_imageText">Trophy</string>
+    <string name="trophy_btn_finish">FINISH</string>
+</resources>
